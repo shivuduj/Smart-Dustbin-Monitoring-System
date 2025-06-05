@@ -73,7 +73,6 @@ Power BI Dashboard (Alerts, Fill Stats, Location View)
 ## 📊 Results / Impact
 
 - 🟢 Identified **bins >80%** full using dbt logic
-- 🟢 Enabled location-based **visual alerts** in Power BI
 - 🟢 Reduced **manual monitoring** by scheduling dbt jobs
 
 ---
