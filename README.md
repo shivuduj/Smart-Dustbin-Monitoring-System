@@ -2,8 +2,6 @@
 A real-time smart bin monitoring system built using **Snowflake**, **dbt Cloud**, and **Power BI** that simulates smart city waste management. The project tracks bin fill levels, triggers alerts, and visualizes waste distribution to optimize collection routes.
 
 
-![image](https://github.com/user-attachments/assets/a1aca4c7-a008-4154-9782-4a7e49db37e3)
-
 ---
 
 ## 📌 Overview
